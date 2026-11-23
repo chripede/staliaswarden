@@ -14,7 +14,7 @@ on:
 env:
   REGISTRY: ghcr.io
   # Set these variables for your organization and image name
-  GHCR_ORG: goingdark-social
+  GHCR_ORG: chripede
   IMAGE_NAME: staliaswarden
 
 jobs:
